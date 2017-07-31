@@ -1,0 +1,16 @@
+/Users/Guest/friend_letter/bin/Debug/netcoreapp1.1/friend_letter.deps.json
+/Users/Guest/friend_letter/bin/Debug/netcoreapp1.1/friend_letter.runtimeconfig.json
+/Users/Guest/friend_letter/bin/Debug/netcoreapp1.1/friend_letter.runtimeconfig.dev.json
+/Users/Guest/friend_letter/bin/Debug/netcoreapp1.1/friend_letter.dll
+/Users/Guest/friend_letter/bin/Debug/netcoreapp1.1/friend_letter.pdb
+/Users/Guest/friend_letter/obj/Debug/netcoreapp1.1/friend_letter.AssemblyInfo.cs
+/Users/Guest/friend_letter/obj/Debug/netcoreapp1.1/friend_letter.dll
+/Users/Guest/friend_letter/obj/Debug/netcoreapp1.1/friend_letter.pdb
+/Users/Guest/Desktop/friend_letter/bin/Debug/netcoreapp1.1/friend_letter.deps.json
+/Users/Guest/Desktop/friend_letter/bin/Debug/netcoreapp1.1/friend_letter.runtimeconfig.json
+/Users/Guest/Desktop/friend_letter/bin/Debug/netcoreapp1.1/friend_letter.runtimeconfig.dev.json
+/Users/Guest/Desktop/friend_letter/obj/Debug/netcoreapp1.1/friend_letter.AssemblyInfo.cs
+/Users/Guest/Desktop/friend_letter/obj/Debug/netcoreapp1.1/friend_letter.dll
+/Users/Guest/Desktop/friend_letter/obj/Debug/netcoreapp1.1/friend_letter.pdb
+/Users/Guest/Desktop/friend_letter/bin/Debug/netcoreapp1.1/friend_letter.dll
+/Users/Guest/Desktop/friend_letter/bin/Debug/netcoreapp1.1/friend_letter.pdb
